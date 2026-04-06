@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://money-train3.com/
+Sitemap: https://money-train3.com/sitemap.xml

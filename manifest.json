@@ -1,0 +1,19 @@
+{
+  "name": "Money Train 3",
+  "short_name": "Money Train 3",
+  "theme_color": "",
+  "background_color": "#0C1523",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1775482284-logo-money-train-3-8a1f223e5b.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
